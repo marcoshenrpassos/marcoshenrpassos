@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I am Marcos Passos 👋
 
 
 - 🔭 I’m currently working on front-End. My Masters Project was to build a social network application that deals with crime related activities in a given area/city. I cannot show this project yet as I'm wating for my results from Uni. I built several modules and particularly contributed to the front-end, and a little to the back-end. Our client, supervisor and coordinator really appreciated our final product.
