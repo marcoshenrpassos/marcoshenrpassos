@@ -20,8 +20,17 @@
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Marcos-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.polygon.com%2F22663484%2Fwhat-happened-matrix-revolutions-ending-resurrections&psig=AOvVaw3vn7jJZQDm7Nv1zmEviJrC&ust=1635501829868000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiuoqHt7PMCFQAAAAAdAAAAABAJ">
+  <img align="right" alt="Marcos-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/PpKB0G7.gif">
 </div>
   
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <!-- https://devicon.dev -->
+##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/marcos-passos-6b4282181/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/marcoshenrpassos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcoshenriq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/marcoshenrpassos/marcoshenrpassos/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
