@@ -6,8 +6,6 @@
 - 👯 I’m looking to collaborate on front-end projects, as I've decided to focus on this part of Software Development. I really enjoyed seeing my work shown on the screen. 
 - 🤔 I’m looking for help with getting better at front-end at this stage.
 - 📫 How to reach me: marcoshenriq@gmail.com
-- 😄 Pronouns: him/his
-- ⚡ Fun fact: I am unable to find a fun fact that is not embarrasing...🤷‍♂️
 
 
 <div>
