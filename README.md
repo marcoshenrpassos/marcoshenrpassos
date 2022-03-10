@@ -2,9 +2,8 @@
 ### Hi there! I am Marcos Passos 👋
 
 - 🔭 I’m a gradute software engineer and I am currently studying front-end development. My Masters Project was to build a social network application that focuses on crime related activities in a given area/city. I cannot show this project, but I'll definitelly do it at a job interview. I built several modules and particularly contributed to the front-end, and a little to the back-end. Our client, supervisor and coordinator really appreciated our final product.
-- 🌱 I’m currently learning JavaScript, but also getting better at HTML and CSS.
-- 👯 I’m looking to collaborate on front-end projects, as I've decided to focus on this part of Software Development. I really enjoyed seeing my work shown on the screen. 
-- 🤔 I’m looking for help with getting better at front-end at this stage.
+- 🌱 I’m currently learning JavaScript and Angular, but also getting better at HTML and CSS.
+- 👯 I’m looking to collaborate on web-development projects, as I've decided to focus on this part of Software Development. I really enjoyed seeing my work shown on the screen. 
 - 📫 How to reach me: marcoshenriq@gmail.com
 
 
